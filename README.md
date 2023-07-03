@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Puedes encontrarme en:
-- [Dicop](https://www.dicop.com/)
+- [Dicop.com](https://www.dicop.com/)
 - [Facebook](https://www.facebook.com/DicopConsulting)
 <!--
 
