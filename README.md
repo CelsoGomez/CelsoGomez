@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Celso 👋
 
 Puedes encontrarme en:
 - [Dicop.com](https://www.dicop.com/)
