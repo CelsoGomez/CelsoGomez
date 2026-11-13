@@ -6,7 +6,7 @@
 - [Facebook](https://www.facebook.com/DicopConsulting)
 - [Mail](mailto:celso.gomez@dicoop.com)
 
-[![CelsoGomez's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelsoGomez)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 
