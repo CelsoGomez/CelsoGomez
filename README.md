@@ -6,6 +6,9 @@
 - [Facebook](https://www.facebook.com/DicopConsulting)
 - [Mail](mailto:celso.gomez@dicoop.com)
 
+<br>
+
+### Más sobre mi:
 - 🔭 Actualmente estoy trabajando en: ...
 - 🌱 Actualmente estoy aprendiendo: ...
 - 👯 Busco colaborar en: ...
